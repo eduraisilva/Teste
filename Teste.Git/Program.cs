@@ -12,7 +12,8 @@ namespace Teste.Git
             if (nome == "Eduardo") {
                 nome = "Eduardo lindo e Maravilhoso";
             }
-
+            Console.WriteLine("Hello Everybady");
+            Console.WriteLine();
             Console.WriteLine($"Welcome {nome}! Nice to meet you!!!");
         }
     }
